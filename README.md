@@ -34,6 +34,5 @@ This dashboard demonstrates how simple visual analytics can reveal deep financia
 ---
 
 ###  Dashboard Preview  
-![Financial Performance Dashboard](Analysis dashboard.png)
-
+https://github.com/winningprecious/Financial-Health-Overview/blob/main/Analysis%20dashboard.png
 ---
